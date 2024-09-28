@@ -1,10 +1,10 @@
 {
-    "name": "Food Ninja",
-    "short_name": "FoodNinja",
+    "name": "Bono",
+    "short_name": "Bono",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#FFE9D2",
-    "theme_color": "#FFE1C4",
+    "background_color": "#cddfed",
+    "theme_color": "#1965a1",
     "orientation": "portrait-primary",
     "icons":[
         {
