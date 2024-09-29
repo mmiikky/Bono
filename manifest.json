@@ -3,8 +3,8 @@
     "short_name": "Bono",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#cddfed",
-    "theme_color": "#1965a1",
+    "background_color": "#CDDFED",
+    "theme_color": "#1965A1",
     "orientation": "portrait-primary",
     "icons":[
         {
